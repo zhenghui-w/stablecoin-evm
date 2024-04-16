@@ -19,7 +19,7 @@
 set -e
 
 # Refer to https://github.com/foundry-rs/foundry/tags for the list of Foundry versions.
-FOUNDRY_VERSION=nightly-2cf84d9f3ba7b6f4a9296299e7036ecc24cfa1da
+FOUNDRY_VERSION=nightly-1ca9b854ef261d167b802da4a11665f6c3e26c4b
 
 if [[ "$CI" == "true" ]]
 then
